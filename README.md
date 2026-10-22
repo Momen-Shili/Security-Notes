@@ -2,8 +2,6 @@
 
 Practical, defensive security notes from building and reviewing multi-tenant SaaS and AI-agent systems. Each note is short: the risk, how it shows up in real code, and the fix.
 
-By Momen Shili, cybersecurity engineer and 4th-year engineering student at ULT, Tunisia.
-
 > Defensive and educational. No exploit code. Only test systems you own or have written permission to test.
 
 ## Notes
